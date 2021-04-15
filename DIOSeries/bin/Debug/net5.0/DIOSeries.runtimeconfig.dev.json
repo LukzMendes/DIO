@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MEEP-SUPORTE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MEEP-SUPORTE\\.nuget\\packages"
+    ]
+  }
+}
