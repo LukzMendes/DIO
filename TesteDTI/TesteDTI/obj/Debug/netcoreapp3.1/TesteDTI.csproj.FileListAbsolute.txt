@@ -1,0 +1,40 @@
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.exe
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.deps.json
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.json
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.dev.json
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.dll
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.pdb
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfo.cs
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.RazorTargetAssemblyInfo.cache
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\staticwebassets\TesteDTI.StaticWebAssets.Manifest.cache
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\staticwebassets\TesteDTI.StaticWebAssets.xml
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.dll
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.pdb
+C:\Users\willi\Documents\Visual Studio 2019\Projects\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.genruntimeconfig.cache
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.exe
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.deps.json
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.json
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.dev.json
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.dll
+C:\Git\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.pdb
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csprojAssemblyReference.cache
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfoInputs.cache
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfo.cs
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.CoreCompileInputs.cache
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.RazorTargetAssemblyInfo.cache
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\staticwebassets\TesteDTI.StaticWebAssets.Manifest.cache
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\staticwebassets\TesteDTI.StaticWebAssets.xml
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.dll
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.pdb
+C:\Git\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.genruntimeconfig.cache
